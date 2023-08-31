@@ -1,1 +1,1 @@
-list content of current directory
+command to user’s home directory
