@@ -1,1 +1,1 @@
-command to user’s home directory
+display current directory content in long format
