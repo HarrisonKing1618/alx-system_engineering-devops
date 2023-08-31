@@ -1,1 +1,1 @@
-shebang line to run in bash and pwd
+list content of current directory
