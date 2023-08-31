@@ -1,1 +1,1 @@
-copy html files that did not exist in the parent directory
+move files begining with an uppercase letter to a new directory
