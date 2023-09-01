@@ -1,1 +1,1 @@
-code to switch current user to new user
+ a script that prints the effective username of the current user
