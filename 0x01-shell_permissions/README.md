@@ -1,1 +1,1 @@
-a script that changes the name of a group
+script to change user under certain conditions
