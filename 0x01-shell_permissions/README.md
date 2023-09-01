@@ -1,1 +1,1 @@
-script to change user under certain conditions
+a script that will play the StarWars IV episode in the terminal.
