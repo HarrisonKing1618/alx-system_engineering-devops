@@ -1,1 +1,1 @@
-a script that changes the name of a user
+code to create an empty file
