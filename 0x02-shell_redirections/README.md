@@ -1,1 +1,1 @@
-last four line
+display the third line of a file
