@@ -1,1 +1,1 @@
-display content of a file to a different file
+display the content of multiple files
