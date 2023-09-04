@@ -1,1 +1,1 @@
-A scripts that print hello world
+a script that prints confused smiley
