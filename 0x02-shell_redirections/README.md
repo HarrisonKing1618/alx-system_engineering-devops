@@ -1,1 +1,1 @@
-a script that prints confused smiley
+display content of a file to a different file
