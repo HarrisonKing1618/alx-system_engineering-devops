@@ -1,1 +1,1 @@
-display the third line of a file
+output a command to a file
